@@ -54,7 +54,7 @@ body
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(Ali.jpg) no-repeat center center/cover;
+    background: url(img1.jpg) no-repeat center center/cover;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -137,10 +137,6 @@ body
    
 
 }
-
-
-
-
 
 .btn-box a:hover{
     box-shadow: 0 0 5px cyan,
@@ -262,29 +258,6 @@ body
     height: 100%;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .div-class {
     font-size: 100px;
@@ -427,23 +400,6 @@ box-shadow: 0 0 5px cyan,
     border-radius: 0.7rem;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @keyframes slideRight {
      0%{
